@@ -1,7 +1,7 @@
 {
   "name": "into-to-middleware",
   "version": "1.0.0",
-  "description": "",
+  "description": "If you just forked and cloned a node app, what command should you run from the terminal to ensure you've downloaded all the dependencies?",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
-  }
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hesai69/intro-to-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hesai69/intro-to-middleware/issues"
+  },
+  "homepage": "https://github.com/Hesai69/intro-to-middleware#readme"
 }
